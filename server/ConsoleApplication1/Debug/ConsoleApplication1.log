@@ -1,0 +1,29 @@
+﻿Build started 5/2/2016 11:58:39 PM.
+     1>Project "E:\Programiranje\potapljanje brodova umrezeno\server\ConsoleApplication1\ConsoleApplication1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"Debug\ConsoleApplication1.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\ConsoleApplication1.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt ConsoleApplication1.cpp
+         ConsoleApplication1.cpp
+     1>e:\programiranje\potapljanje brodova umrezeno\server\consoleapplication1\consoleapplication1.cpp(453): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>e:\programiranje\potapljanje brodova umrezeno\server\consoleapplication1\consoleapplication1.cpp(459): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>e:\programiranje\potapljanje brodova umrezeno\server\consoleapplication1\consoleapplication1.cpp(465): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>e:\programiranje\potapljanje brodova umrezeno\server\consoleapplication1\consoleapplication1.cpp(471): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>e:\programiranje\potapljanje brodova umrezeno\server\consoleapplication1\consoleapplication1.cpp(477): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>e:\programiranje\potapljanje brodova umrezeno\server\consoleapplication1\consoleapplication1.cpp(634): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>e:\programiranje\potapljanje brodova umrezeno\server\consoleapplication1\consoleapplication1.cpp(68): warning C4101: 'mode': unreferenced local variable
+     1>e:\programiranje\potapljanje brodova umrezeno\server\consoleapplication1\consoleapplication1.cpp(17): warning C4101: 'pozicijay': unreferenced local variable
+     1>e:\programiranje\potapljanje brodova umrezeno\server\consoleapplication1\consoleapplication1.cpp(17): warning C4101: 'pozicijax': unreferenced local variable
+     1>e:\programiranje\potapljanje brodova umrezeno\server\consoleapplication1\consoleapplication1.cpp(20): warning C4101: 'brod': unreferenced local variable
+     1>e:\programiranje\potapljanje brodova umrezeno\server\consoleapplication1\consoleapplication1.cpp(29): warning C4101: 'mis': unreferenced local variable
+     1>e:\programiranje\potapljanje brodova umrezeno\server\consoleapplication1\consoleapplication1.cpp(68): warning C4101: 'connectionType': unreferenced local variable
+     1>e:\programiranje\potapljanje brodova umrezeno\server\consoleapplication1\consoleapplication1.cpp(628): warning C4101: 'u': unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Programiranje\potapljanje brodova umrezeno\server\Debug\ConsoleApplication1.exe" /INCREMENTAL /NOLOGO "sfml-audio-d.lib" "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" "sfml-network-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\Programiranje\potapljanje brodova umrezeno\server\Debug\ConsoleApplication1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Programiranje\potapljanje brodova umrezeno\server\Debug\ConsoleApplication1.lib" /MACHINE:X86 Debug\ConsoleApplication1.obj
+         Debug\stdafx.obj
+         ConsoleApplication1.vcxproj -> E:\Programiranje\potapljanje brodova umrezeno\server\Debug\ConsoleApplication1.exe
+     1>Done Building Project "E:\Programiranje\potapljanje brodova umrezeno\server\ConsoleApplication1\ConsoleApplication1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:33.63
